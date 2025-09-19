@@ -1,7 +1,7 @@
 # Clothing Management System 👕👖
 
 A desktop-based application built with **Java** (and JavaFX/Swing if used) that helps manage a clothing store’s inventory, sales, and customer information.  
-This project was developed as part of my Computer Science coursework to demonstrate **object-oriented programming (OOP)** concepts and practical application design.
+This project was developed  to demonstrate **object-oriented programming (OOP)** concepts and practical application design.
 
 ---
 
